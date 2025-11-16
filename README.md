@@ -188,7 +188,8 @@ endmodule
 
 The simulation is carried out using ModelSim 2020.1.
 
-<img width="1918" height="1078" alt="Screenshot 2025-09-16 094859" src="https://github.com/user-attachments/assets/5a87fd46-469f-469f-b622-bbb3037e5506" />
+<img width="1919" height="1025" alt="Screenshot 2025-11-16 213943" src="https://github.com/user-attachments/assets/ae68b0c5-59d7-4e65-97fa-faf36337f52d" />
+
 
 ---
 
